@@ -52,7 +52,7 @@
       <img src="https://avatars.githubusercontent.com/u/162455065?v=4" width="100px;" alt=""/>
       <br />
       <sub>
-        <b>이예진진</b>
+        <b>이예진</b>
       </sub>
     </a>
     <br />
