@@ -68,7 +68,7 @@
 ## Project Summary
 - kaggle에서 진행하는 자동차 보험 교차판매 이진 분류대회에 대해 진행했습니다.
 
-**ML_project_Taitanic**
+**ML_project_drive_insurance**
 - 대회명 : 자동차 보험 교차판매 이진 분류
 - 팀명 : 오리조
 - 주제 : 보험 회사의 고객이 자동차보험에 긍정적인지 부정적으로 응답하는지 예
